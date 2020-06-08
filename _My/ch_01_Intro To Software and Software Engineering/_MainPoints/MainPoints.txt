@@ -1,0 +1,82 @@
+b1 -->
+Object-Oriented Software Engineering
+Practical software development using UML and Java
+Second edition
+---------------------
+
+========================================
+1.What is software engineering?
+========================================
+#q/a
+#b1 --> 33
+
+==========================================
+2.Types of software and their differences :
+	- custom software, generic software and embedded software
+	- real-time and data processing
+==========================================
+#q/a
+#b1 --> 30
+
+==========================================
+3.Stakeholders in software engineering
+==========================================
+#q/a
+#b1 --> 37
+
+==========================================
+4.- Attributes of software quality
+  - the relative importance of Attributes of software quality 
+  - What software quality means to different stakeholders diagram
+  - Quality for the short term vs. quality for the long term
+==========================================
+#q/a
+#b1 --> 38
+
+==========================================
+5.types of Software engineering projects :
+- Evolutionary projects
+- Greenfield projects
+- Projects that involve building on a framework or a set of existing components
+==========================================
+#q/a
+#b1 --> 41
+
+==========================================
+6.(SDLC)Activities common to software projects :
+==========================================
+#q/a
+#b1 --> 43
+
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================

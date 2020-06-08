@@ -1,0 +1,143 @@
+
+
+========================================
+1.Why use a standard modeling language?
+========================================
+#b1 --> 197
+#q\a
+
+==========================================
+2.Essentials Component of UML class diagrams
+==========================================
+#b1 --> 199
+#q\a
+
+==========================================
+3.class diagram : 
+  - how to represent class in uml
+==========================================
+#b1 --> 200
+#q\a
+
+
+==========================================
+4.- what is Associations and multiplicity
+  - how to represent Associations and multiplicity in uml
+  - Labeling associations : 
+      - types of labels
+      - how to make An association name
+      - If you omit both the association name and role names, then consider that an
+        association’s name is
+      - (Analyzing and validating associations ) 
+        A good rules of thumb when performing Associations analysis are
+  - the most common patterns of multiplicity
+      - one to many : 
+            one company can has many employees
+            every employee can work only for one company
+      - many to many :
+            one facebook user can join many groups
+            every facebook group can has many users
+      - one to one
+   - Association classes ( many to many class )
+   - Directionality in associations
+   - types of Associations :
+        -  aggregations
+        -  composition
+        -  aggregations to be drawn as a hierarchy
+   - IMPORTANT NOTE : 
+      about be less restrictive so as to increase the flexibility of the system as general concept.
+==========================================
+#b1 --> 200
+#q\a
+
+==========================================
+5.Generalization
+  - how to represent the Generalization in uml
+  - the issues to consider when creating generalizations
+       - Avoiding unnecessary generalizations
+       - Handling multiple generalization sets 
+             - a levels of generalization solution and why it failed?
+             - multiple inheritance solution and why it failed ?
+             - player–role pattern solution 
+==========================================
+#b1 --> 209
+#q\a
+
+==========================================
+6.Object diagrams :
+  - what is Object diagrams ?
+  - how to represent them in uml ?
+==========================================
+#b1 --> 213
+#q\a
+
+==========================================
+7.Interfaces
+  - what are Interfaces ?
+  - how to represent them in uml ? 
+  - interfaces vs generalizations.
+  - A key advantage of using interfaces
+==========================================
+#b1 --> 218
+#q\a
+
+
+######################################################################
+The process of developing class diagrams :
+######################################################################
+
+==========================================
+8.- Types of models or classes
+  - Independently Between system domain Model and System model
+==========================================
+#b1 --> 226
+#q\a
+
+===========================================
+9.A suggested sequence of activities
+  - order of identifiy classes - operations - data
+============================================
+#b1 --> 228
+#q\a
+
+============================================
+10.- How To Identifying classes
+   - importance of Reuse
+   - A simple technique for discovering the initial set of domain classes
+   - the Airline system Example
+=============================================
+#b1 --> 229
+#q\a
+
+
+=============================================
+11.Identifying associations and attributes
+   - how to start ?
+   - Tips about identifying and specifying valid associations
+   - - Airline system class diagram after adding associations and attributes
+=============================================
+#b1 --> 232
+#q\a
+
+
+=============================================
+12.Identifying generalizations and interfaces
+   - There are two ways to identify generalizations 
+   - To use the bottom-up approach of generalizations 
+   - Sometimes the common features do not have the same name
+   - when to use <<interfaces>>
+   - Airline system class diagram after adding a generalization
+=============================================
+#b1 --> 235
+#q\a
+
+
+===================================================
+13.Allocating responsibilities to classes
+   - Tips about How to Allocating responsibilities to classes
+   - RC (Class–Responsibility–Collaboration) cards.
+   - Identifying operations
+   - Airline system class diagram after adding responsibilities
+===================================================
+#b1 --> 235
+#q\a

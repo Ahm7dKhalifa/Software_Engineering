@@ -1,0 +1,138 @@
+
+
+========================================
+1.Names are everywhere in software
+========================================
+book(Clean code) --> p48
+
+==========================================
+2.Use Intention-Revealing Names
+  - Choosing good names takes time but saves more than it takes
+  - The name of a variable, function, or class, should answer all the big questions.
+  - If a name requires a comment
+  - The problem isn’t the simplicity of the code but the implicity of the code
+==========================================
+book(Clean code) --> p49
+
+==========================================
+3.Avoid Disinformation
+  - what is Disinformation ?
+  - Spelling similar concepts similarly is information. Using inconsistent spellings is disinformation.
+  - A truly awful example of disinformative names would be the use of lower-case L or uppercase O as variable names
+==========================================
+book(Clean code) --> p50
+
+==========================================
+4.Make Meaningful Distinctions
+- If names must be different, then they should also mean something different
+- Number-series naming
+- Noise words
+- using prefix conventions like a and the 
+- C# naming conventions
+- Noise words are redundant
+==========================================
+book(Clean code) --> p51
+#resources :
+1- https://softwareengineering.stackexchange.com/questions/70992/what-naming-convention-to-use-for-c-function-parameters
+==========================================
+5.Use Pronounceable Names
+  - If you can’t pronounce it, you can’t discuss it without sounding like an idiot
+  - programming is a social activity.
+  - genymdhms VS generationTimestamp
+==========================================
+book(Clean code) --> p52
+
+==========================================
+6.Use Searchable Names
+  - problems of Single-letter names and numeric 
+  - WORK_DAYS_PER_WEEK VS 5
+==========================================
+book(Clean code) --> p53
+
+==========================================
+7.Avoid Encodings
+==========================================
+book(Clean code) --> p54
+
+==========================================
+8.Hungarian Notation
+ - Write Type in The Name Of The Variable  
+ - PhoneNumber phoneString;
+// name not changed when type changed!
+==========================================
+book(Clean code) --> p54
+
+==========================================
+9.Member Prefixes
+- You also don’t need to prefix member variables with m_ anymore
+- people quickly learn to ignore the prefix (or suffix) to see the meaningful part of the name.
+- prefixes become unseen clutter and a marker of older code.
+==========================================
+book(Clean code) --> p55
+#resources :
+1- https://stackoverflow.com/questions/9782084/naming-conventions-in-c-sharp-underscores
+2- https://www.c-sharpcorner.com/article/stop-use-var-everywhere-and-think-before-use-underscore-with-private-variable-in/
+
+==========================================
+10.Interfaces and Implementations
+==========================================
+book(Clean code) --> p55
+
+==========================================
+11.Avoid Mental Mapping
+- Readers shouldn’t have to mentally translate your names into other names they already know.
+- i in loop context example
+- other contexts a single-letter name is a poor choice
+- smart programmer and a professional programmer is that the professional understands that clarity is king.
+==========================================
+book(Clean code) --> p56
+
+==========================================
+12.Class Names
+- rules to write or choose good name for class
+==========================================
+book(Clean code) --> p56
+
+==========================================
+13.Method Names
+  - Why Methods should have verb or verb phrase names ?
+  - useing static factory methods
+==========================================
+book(Clean code) --> p56
+- Mobile Can not be Method Name , Why ? 
+Because We Can Need More Action On That Name Like :
+* GetMobile() , SetMobile() , DeleteMobile() , and so on
+
+
+==========================================
+14.Don’t Be Cute
+- Choose clarity over very too clever names
+- do not use jokes in your names
+===========================================
+book(Clean code) --> p57
+
+
+===========================================
+15.Add Meaningful Context
+   - related variables to class --> address class example
+   - split big function to class
+===========================================
+book(Clean code) --> p58
+
+===========================================
+16.Don’t Add Gratuitous Context
+   - GSDAccountAddress examples
+   - AccountAddress , customerAddress vs Address
+===========================================
+book(Clean code) --> p60
+
+
+===========================================
+17.Final Words 
+===========================================
+book(Clean code) --> p61
+
+
+
+
+

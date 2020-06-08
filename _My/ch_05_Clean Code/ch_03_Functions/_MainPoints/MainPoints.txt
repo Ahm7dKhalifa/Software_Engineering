@@ -1,0 +1,192 @@
+
+
+========================================
+1.big and bad function vs small and good function example
+  - big function : 
+      - there at too many different levels of abstraction.
+      - nested if statements controlled by flags.
+  - small function :
+      - with just a few simple method extractions, 
+      - some renaming,
+      - and a little restructuring
+========================================
+#b--> p64
+
+==========================================
+2.Small Function
+  - First Rule And secound Rule of writing functions :
+  - In the eighties we used to say that a function should be no bigger than a screen-full.
+  - Functions should hardly ever be 20 lines long.
+  - how short your functions should be ?
+==========================================
+#b--> p65
+
+==========================================
+3.Blocks and Indenting
+- This implies that the blocks within if statements, else statements, while statements, 
+  and so on should be one line long.
+- the indent level of a function :
+==========================================
+#b--> p66
+
+==========================================
+4.Do One Thing
+- FUNCTIONS SHOULD DO ONE THING.
+- The problem with this statement is that it is hard to know what “one thing” is.
+- Listing 3-1 contains steps at many different levels of abstraction. 
+  So it is clearly doing more than one thing. 
+- Even Listing 3-2 has two levels of abstraction, as proved by our ability to shrink it down.
+- But it would be very hard to meaningfully shrink Listing 3-3
+==========================================
+#b--> p66
+
+==========================================
+5.Sections within Functions
+  - Functions that do one thing cannot be reasonably divided into sections.
+==========================================
+#b--> p67
+
+==========================================
+6.Reading Code from Top to Bottom: The Stepdown Rule
+  - code to read like a top-down narrative.
+  - every function to be followed by those at the next level of abstraction
+    so that we can read the program, descending one level of abstraction at a time 
+    as we read down the list of functions
+  - we want to be able to read the program as though it were a set of TO paragraphs,
+    each of which is describing the current level of abstraction 
+    and referencing subsequent TO paragraphs at the next level down.
+==========================================
+#b--> p68
+
+==========================================
+7.Switch Statements
+  - disadvantages of switch statement
+  - how to solve this problem using abstraction and polymorphism 
+==========================================
+#b--> p68
+
+==========================================
+8.Use Descriptive Names
+  - better name better describes what the function does
+  - A long descriptive name is better than : 
+  - Don’t be afraid to spend time choosing a name
+  - try several different names and read the code with each in place
+  - Choosing descriptive names will clarify the design of the module in your mind and help you to improve it.
+  - Use the same phrases, nouns, and verbs in the function names you choose for your modules.
+==========================================
+#b--> p70
+
+==========================================
+9.Function Arguments :
+  - The ideal number of arguments for a function is : 
+  - Arguments are even harder from a testing point of view : 
+  - Output arguments are harder to understand than input arguments.
+==========================================
+#b--> p71
+
+==========================================
+10.Common Monadic Forms :
+   - when to pass a single argument into a function
+   - Using an output argument instead of a return value for a transformation is confusing.
+==========================================
+#b--> p72
+
+==========================================
+11.Flag arguments
+  - why Flag arguments are ugly.
+  - how to Refactor function with flag argument :
+    ex : render(boolean isSuite) : 
+         We should have
+         split the function into two: renderForSuite() and renderForSingleTest().  
+==========================================
+#b--> p72
+
+==========================================
+12.Dyadic Functions
+ - A function with two arguments is harder to understand than a monadic function
+ - when the function with two arguments are good or bad ?
+   - natural ordering.
+ - examples to convert from Dyadic to Monadic 
+==========================================
+#b--> p73
+
+==========================================
+13.Triads
+  - why Functions that take three arguments are significantly harder to understand
+==========================================
+#b--> p73
+
+==========================================
+14.Argument Objects
+==========================================
+#b--> p74
+
+
+==========================================
+15.Argument Lists
+===========================================
+#b--> p74
+
+===========================================
+16.Verbs and Keywords
+   - Choosing good names for a function can go a long way toward explaining :
+   - examples  of better name for functions that used function Arguments
+============================================
+#b--> p74
+
+
+===========================================
+17.Have No Side Effects
+- what is Side Effects ?
+- examples of Side Effects
+- Temporal couplings : When two actions are bundled together into one module just because they happen to occur at the same time
+- checkPassword VS checkPasswordAndInitializeSession,
+===========================================
+#b--> p75
+
+===========================================
+18.Output Arguments
+- Arguments are most naturally interpreted as inputs to a function.
+- double-take Example : appendFooter(s);
+- how oop solve double-take problem ?
+    - this keyword
+    - In general output arguments should be avoided. 
+      If your function must change the state of something,
+      have it change the state of its owning object.
+===========================================
+#b--> p76
+
+
+============================================
+19.Command Query Separation
+- Functions should either do something or answer something, but not both
+- Either your function should change the state of an object,
+ or it should return some information about that object.
+- Example :
+- if (set("username", "unclebob")){}
+- setAndCheckIfExists,
+- if (attributeExists("username")) {
+	setAttribute("username", "unclebob");
+  }
+============================================
+#b--> p76
+
+
+
+=============================================
+20.errors 
+- Prefer Exceptions to Returning Error Codes
+- Try/catch blocks are ugly ? why and How to solve this problem ?
+=============================================
+#b--> p77
+
+
+==============================================
+79.Don’t Repeat Yourself13
+- Duplication may be the root of all evil in software.
+- problems of Duplication ?
+- Many principles and practices have been created 
+  for the purpose of controlling or eliminating Duplication.
+- the invention of the subroutine and eliminate duplication.
+==============================================
+#b--> p79

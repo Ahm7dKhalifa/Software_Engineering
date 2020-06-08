@@ -1,0 +1,78 @@
+
+
+========================================
+0.what is mean by designing something ?
+========================================
+- defining the structure of it
+
+==========================================
+1.- what is mean by software design ?
+  - WHAT IS SOFTWARE MODELING
+==========================================
+#q/a
+#resources : 
+1- https://sea.ucar.edu/best-practices/design
+
+==========================================
+2.Why Software Design Is Important?
+==========================================
+#q/a
+#resources : 
+1- https://www.mindbowser.com/why-software-design-is-important/
+2- https://www.quora.com/What-is-the-importance-of-software-engineering
+3- https://www.quora.com/Why-is-design-so-important-in-building-software
+4- https://www.quora.com/What-is-the-importance-of-analysis-and-design-in-software-engineering
+==========================================
+3.software design vs software architecture
+==========================================
+#q/a
+#resources : 
+1- https://stackoverflow.com/questions/704855/software-design-vs-software-architecture
+2- https://www.synopsys.com/software-integrity/resources/knowledge-database/software-architecture.html
+3- https://www.tutorialspoint.com/software_engineering/software_design_basics.htm
+
+==========================================
+4.Desirable Characteristics of a Design
+==========================================
+#b2 --> 80
+#resources : 
+1- https://guifroes.com/clever-code-is-bad/
+
+==========================================
+5.Levels of Design
+==========================================
+#b2 --> 82
+
+==========================================
+6.Level 1: Software System
+==========================================
+#b2 --> 82
+
+==========================================
+7.Level 2: Division into Subsystems or Packages
+  - The major goals from this activity
+  - good vs bad subsystems
+  - how to make the connections easy to understand and maintain
+  - common subsystems
+==========================================
+#b2 --> 82
+
+==========================================
+8.Level 2: Division into Classes
+   - The division of subsystems if the project is large
+   - The division of subsystems if the project is small
+   - Classes vs. Objects
+==========================================
+#b2 --> 86
+
+
+===========================================
+9.Level 4: Division into Routines
+===========================================
+#b2 --> 86
+
+===========================================
+10.Level 5: Internal Routine Design
+===========================================
+#b2 --> 87
+

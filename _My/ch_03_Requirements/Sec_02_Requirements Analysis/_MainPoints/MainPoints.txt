@@ -1,0 +1,93 @@
+===========================================
+0.Requirements Analysis activities or Steps :
+===========================================
+1- domain analysis
+2- gathering or Eliciting the requirements
+3- Analyzing requirements
+4- Recording requirements
+
+#q/a
+1- https://en.wikipedia.org/wiki/Requirements_analysis
+2- https://reqtest.com/requirements-blog/requirements-analysis/
+========================================
+1.The starting point for software projects
+  - type of requirments based on :
+    	software exists at the outset, 
+	and whether or not requirements exist at the outset 
+  - If the customer has not done a good job of analysis and specification
+========================================
+#b1 --> 141
+#q/a
+
+==========================================
+2.Defining the problem and the scope
+  - next stage after domain analysis 
+  - what is the requirment or the problem ?
+  - important notes when writing requirment .
+==========================================
+#b1 --> 142
+#q/a
+
+==========================================
+3.Types of requirements
+==========================================
+#b1 --> 146
+#q/a
+
+==========================================
+4.Functional requirements
+  - what is Functional requirements
+  - The functional requirements can be further categorized as
+  - examples
+==========================================
+#b1 --> 147
+#q/a
+
+
+==========================================
+5.Quality requirements
+  - what is Quality requirements
+  - the main categories of quality requirements, although this is not an exclusive list.
+==========================================
+#b1 --> 151
+#q/a
+
+
+==========================================
+6.Platform requirements
+   - what is Platform requirements
+==========================================
+#b1 --> 151
+#q/a
+
+
+==========================================
+7.Process requirements
+==========================================
+#b1 --> 152
+#q/a
+
+==========================================
+8.examples for Types of requirements
+==========================================
+#b1 --> 152
+#q/a
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
