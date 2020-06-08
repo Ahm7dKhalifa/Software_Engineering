@@ -1,0 +1,248 @@
+##########################################
+1.WHAT IS OOP
+##########################################
+- in real word every thing is object .. you is object 
+  your car is object .. your home .. your cat .. any thing is object
+- any object consist of some properties like 
+  age and name and .. and some of actions he can doing like eat or move
+  and so on 
+- we just apply this consepts and principles of the real world
+  to programming world 
+
+#############################################
+2.four principles in oop
+################################################
+Q/A
+
+##############################################
+3.WHAT IS CLASS AND OBJECT
+##############################################
+- CLASS :
+IS a template which objects can be instances from it
+- object :
+instance or varible from its class 
+Q/A
+
+#################################################
+4.BENFITS OF OOP
+##################################################
+Q/A
+
+
+#######################################
+5.QUIZ
+####################################
+Q/A
+
+
+############################################
+6.WHAT IS MEAN BY OOP ANALYSIS?AND HOW TO APPLAY IT
+####################################################
+- IT IS THE SOFTWARE ENGINEERING APPROUCH TO CONVERT 
+  THE REQUIREMNTS TO CLASSES AND THIER ATTRUIBUITS AND METHODS
+- GO FROM FUNCTIONAL VIEW TO DATA VIEW
+- DEFINE THE SYSTEM AS TERM OF DATAYPES AND ACTIONS AND THIER REALTIONSHIPS
+-Q/A
+#################################
+7.SIMPLE QUIZ ON OOP ANALYSIS
+#################################
+-Q/A
+
+##########################################
+8.what is uml
+##########################################
+Q/A
+
+#####################################
+9.WHAT IS Software analysis and design
+#####################################
+Q/A
+- software design is the process of 
+  define methods,fuctions,objects(classes),entities ,and all componants of 
+  the system or the structure
+- not just this but also how this entities or componants interaction with each other 
+- going from high level design (architecture design)  to low level design (algorthim design) 
+- componants and entities of school system like :
+  - student
+  - course
+  - professor
+  - registration form
+- componants and entities of commerical system like :
+  - client
+  - product
+  - shoping card
+
+######################################
+10.GOALS OF UML
+#######################################
+Q-A
+
+#######################################
+11.A Conceptual Model of UML
+#######################################
+A IN Q10
+
+########################################
+12.WHAT IS
+   - OO analysis 
+   - OO design  
+   OR OO analysis AND design
+#######################################
+A IN Q10
+
+########################################
+13.The purpose of OO analysis and design can described as 
+   - STAGES OF OOP analysis AND design
+#######################################
+A IN Q10
+
+**************************************************************************
+***********************************************************************
+##################################################
+14.WHAT IS THREE MAIN STEPS OR STAGES TO USE UML
+  -The conceptual model of UML can be mastered by learning the following three major elements 
+##################################################
+Q/A
+
+###################################################
+15.UML - Modeling Types
+##################################################
+Q\A
+
+
+#####################################################
+16.UML - Basic Notations
+#####################################################
+q/a
+*************************************************************************
+*************************************************************************
+
+
+#####################################################
+17.TYPE OF STANDARD DIAGRAMS
+#####################################################
+-Q/A
+
+
+####################################################
+18.WHAT IS CLASS DIAGRAM
+   - how to extract the entities or classes from 
+     the text requirement(example)
+####################################################
+-Q/A
+
+
+####################################################
+19.Purpose of Class Diagrams
+#####################################################
+-Q/A IN 18
+
+
+###################################################
+20.- WHAT IS RELATIONSHIPS in Class Diagrams
+   - TYPES
+   - HOW TO DRAW THE RELATIONSHIPS 
+#####################################################
+-Q\A
+
+
+#############################################
+21.QUIZ ON RELATIONSHIPS 
+##############################################
+Q\A
+
+
+##############################################
+22.Dependency Relationship EXAMPLE
+###############################################
+-Q/A
+
+
+###############################################
+23. Association & Aggregation Relationships EXAMPLE
+##################################################
+Q/A
+
+ Generalization Relationship
+
+###############################################
+24.Generalization Relationship EXAMPLE
+##################################################
+Q/A
+
+
+###########################################
+25.Class Diagram: Creation Tips
+############################################
+q\a
+
+##############################################
+26.WHAT IS COMPONANT DIAGRAM
+################################################
+-Q\A 
+-SET OF CLASSES OR DATABASE FILES, OR ELEMENTS IN GENERAL WORD THAT  
+RELATED WITH EACH OTHER LOGICALLY TO FORM INDIVIDAL SUB-SYSYTEM THAT 
+DESCRIPE THE WHOLE SYSTEM
+
+##############################################
+27.WHAT IS deployment DIAGRAM ? AND EXAMPLE
+################################################
+-Q\A 
+
+
+##################################################
+28.- WHAT IS DYNAMIC OR BEHAVIOR DIAGRAMS
+   - USE CASE DIAGRAM
+   - BASIC NOTAION OF USE CASE
+##################################################
+-Q/A
+
+
+####################################################
+29.explain what is the actors in use case diagram
+   - determin the actors for our course management example
+################################################
+-q\a
+
+
+##################################################
+30.how to document use case diagram
+#################################################
+-q/a
+
+#####################################################
+31.USE CASE EXAMPLE (INFORMAL)
+#######################################################
+-Q/A
+
+######################################################
+32.Role Of Use Cases diagram
+   - or use cases can used for
+#################################################    
+-q/a
+
+##########################################################
+33.creation tips and notes for use cases diagrames
+###################################################### 
+-q/a 
+
+###################################################
+34.what is sequance diagram ? 
+   - example
+####################################################
+-q/a
+
+
+###########################################################
+35.what is the difference between 
+sequance diagram and use case digrgam
+############################################################
+-q/a
+-use case : show interactions between actors and the system
+-sequance : show the interactions between classes in time order
+for ex :
+Login login = new Login(email,password);
+ValidtionManger VM = new ValidationManger(); 
+VM.checkEmail(login.email);
+VM.checkPassword(login.password);
+

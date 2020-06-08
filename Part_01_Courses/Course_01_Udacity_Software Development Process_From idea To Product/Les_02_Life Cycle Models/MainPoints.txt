@@ -1,0 +1,165 @@
+#################################################
+1.What is Software life cycle ?
+################################################
+- Q/A
+- its set of setps or stages and decesions to bulid software 
+  from the idea of the software and its requirement to the software as the product
+- some of decesions like :
+  - what is next step
+  - how long of it 
+
+##################################################
+2.Traditional Software Phases
+###################################################
+-Q/A
+
+
+#################################################
+3.WHAT IS Requirements Engineering
+##############################################
+-Q/A
+-the process which determin what the software well be do
+-note : this process do not descripe (how) software well be do the RE
+        the design process which is responsible about That
+
+###############################################
+4.what is the importance of Requirements Engineering Process
+###############################################
+- all next phases and the software in general depend on it
+- cost of late correction
+- Q/A
+
+################################################
+5.STEPS OF Requirements Engineering Process
+##################################################
+-Q/A
+1.elicitation
+ collect the requirements from stackholders and other resources
+2.analysis
+ study and understandig deeper for the requirement
+3.specification
+requirement are suitable to represent and organize and save and they can be share
+4.validation
+-they consistent,compelete , no redundant
+5.managment
+work with the change of THR RE in THE LIFE CYCLE OF THE SOFTWARE
+
+################################################
+6. WHAT IS DESIGN PROCESS
+################################################
+- V N4
+- DESCRIPTION FOR THE INTERNAL STRUCTURE 
+
+################################################
+7.DESIGN ACTIVITY
+################################################
+-V N4
+-THE CORE IDEA IS GOING FROM HIGH LEVEL VIEW OF THE SYSTEM (ARCHITECTURE DESIGN)
+ TO LOW LEVEL (ALGORTHIM DESIGN)
+-Q/A
+
+####################################################
+8.WHAT IS IMPLEMENTAION PROCESS
+#####################################################
+-implement the actual system
+-v n5
+
+#####################################
+9.FOUR principles OF IMPLEMENTAION  
+#####################################
+-V N5
+1.REDUCTION OF complexity
+the code is easy to undrstand and use
+2.anticiption of diversty
+take into account the software may be change over time 
+and we must anticepte this change
+4.validation
+buid the software is easy to test
+5.standard
+
+
+#########################################
+10.validation vs verification 
+#########################################
+-Q/A
+
+
+########################################
+11.LEVELS OF verification
+##########################################
+-Q/A
+-UNIT :
+TEST INDIVIDIAL UNITS
+-INTEGRATION
+TEST THE INTERACTIONS BETWEEN THE DIFFERENT UNITS
+-SYSTEM
+TEST ALL SYSTEM
+
+
+##################################################
+12.TYPES OF MAINTENANCE
+###################################################
+-Q/A
+
+
+##################################################
+13.WHAT IS SOFTWARE PROCESS MODEL
+##################################################
+-Q/A
+-HOW TO PUT THE ACTIVITES OR PHASES TOGETHER
+
+################################################
+14.COMMON MODELS
+   - WHAT IS ? OR HOW IT WORK ?
+   - WHEN TO USE 
+   - ADVANTAGES
+   - DISADVANTAGES
+################################################
+Q/A
+
+###################################################
+15.FACTORS TO CHOOSE PROCESS MODEL
+###################################################
+-Q/A
+
+
+####################################################
+16.WHAY THE DOCUMENTS IS VERY IMPRTANTS
+#####################################################
+- COMMUNICATION BETWEEN DIFFERENT TEAM MEMBERS
+- EASY TO MAINTENANCE THE SOFTWARE
+- AND SO ON ..
+
+
+#######################################################
+17.TYPE OF THE SOFTWARE DOCUMENTS
+#####################################################
+-Q/A 
+ 
+#######################################
+18.COMMON CLASSIC MISTAKES : PEPOLE
+#######################################
+-Q/A
+
+#######################################
+19.COMMON CLASSIC MISTAKES : PROCESS
+#######################################
+-Q/A
+
+
+#######################################
+20.COMMON CLASSIC MISTAKES : PRODUCT
+#######################################
+-Q/A
+-GOLD PLANT
+THE PROJECT MAY NEED  MORE REQUIRMENT THAN THE ACTUAL NEEDED
+-CREEP
+DEVELOPER BUILD UN NEEDED FEATURES
+-RESearCH !=   development
+MAY be the project needed expert in anthor fileds like physics or math
+ 
+
+
+
+  
+ 

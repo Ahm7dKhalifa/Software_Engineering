@@ -1,0 +1,82 @@
+==============================================
+1.- what is the test
+  - who does testing
+  - when test start
+  - when test end
+  - verification vs validation
+  - Software Testing - Myths
+  - why we need to test
+==============================================
+-q/a
+- some errors is killer
+- verify all requirements of the clients(completeness - suitable)
+- find the error to maintenance before sent the software to the client
+
+==============================================
+2.Failure, Fault, and Error
+  - type of errors
+==============================================
+-q/a
+
+
+==============================================
+3.Verification Approaches
+  - testing
+  - static Verification
+  - inspections
+  - formal proof
+==============================================
+-q/a
+
+==============================================
+4.Pros and Cons of Approaches
+==============================================
+-q/a
+
+
+==============================================
+5.Test Level
+==============================================
+- q/a
+- acceptance test : software meet the client requirements
+- regression test : test the software after any change or modify part to 
+                    ensure the other parts work well 
+
+==============================================
+6.- type of software test 
+  - Alpha and Beta Testing
+==============================================
+-q/a
+confuse point :
+alpha test : 
+1- consist of (unit - integration - system) or 
+2- it the four level and last level happen in developer site(company)
+   and it done by client under control or supervised developer in the software company 
+   or by software company employee but not related directly to the project like project management
+
+
+==============================================
+7.Black and White Box Testing with examples
+==============================================
+-q/a
+
+==============================================
+8.
+==============================================
+
+
+==============================================
+9.
+==============================================
+
+
+==============================================
+10.
+==============================================
+
+
+
+
+
+
+

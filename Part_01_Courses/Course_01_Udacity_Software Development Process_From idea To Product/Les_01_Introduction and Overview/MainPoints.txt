@@ -1,0 +1,77 @@
+a = in folder q/a
+F = ch_00_Additional Resources/PDF FROM my Faculty
+
+
+######################################
+0.what is computer? and types of electronic ?
+######################################
+- a
+- type of electronic : 
+  1.normal electronic circuit 
+     - like timer555 and another ic
+     - make a specific task depend on the value of its elements .
+       like the value of resistant and capcitor and etc
+  2.computers
+      - programmable devices
+      - used for general purposes
+      - and can be used only for  specific purposes as we need 
+
+###################################
+1.what is software 
+###################################
+The term software refers to the set of computer programs, 
+procedures, and associated documents (flowcharts, manuals, etc.) 
+that describe the programs and how they are to be used
+-F/ch_01 slide -> 15
+
+#####################################
+2.Importance of Software
+#####################################
+-F/ch_01 slide -> 16
+
+######################################
+3.Categories of Software
+######################################
+-F/ch_01 slide -> 17
+
+######################################
+4.Classes of Software
+######################################
+-F/ch_01 slide -> 19
+
+#######################################
+5.WHAT IS SOFTWARE ENGINEERING
+#######################################
+- F/ch_01 slide -> 20
+- Software Engineering is the application of a systematic For Rules or Models
+  to Bulid Software From Idea to Product
+- it is some of techniques and methods and principles to build software
+
+################################
+6.The Software Crisis
+################################
+- video no 5
+- A
+
+
+##################################
+7.SOFTWARE PROCESS
+##################################
+-VIDEO NU 8
+-A
+
+#####################################
+8.The Four Main Typs Of Software process
+########################################
+-video nu 9
+-A
+
+#####################################
+8.WHAT IS SOFTWARE PHASES OR
+ The Main Steps Or Stages Of Software process
+########################################
+-video nu 12
+-A
+
+
+

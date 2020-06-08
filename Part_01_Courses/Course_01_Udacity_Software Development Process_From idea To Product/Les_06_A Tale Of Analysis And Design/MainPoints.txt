@@ -1,0 +1,120 @@
+
+Library Information System Project
+
+==============================================
+1.Requirement Text
+==============================================
+-q/a
+
+==============================================
+2.Requirement Analysis
+  - Specify The Important KeyWords to use it as 
+    class or attributes or operations and so on
+==============================================
+-note : choose right name is very important
+-q/a
+
+==============================================
+3.Refining Classes and Attributes
+==============================================
+note : video of this is very important on udacity
+- in some Situations the best is
+   put some entites inside some anther classes or entites as attributes 
+- in some Situations the best is
+  make or convert some attributes as individal classes 
+  and connection them with owner classes through a certain relationship
+  like one to one or one to many or .... 
+-q/a
+
+==============================================
+4.adding Attributes
+==============================================
+-q/a
+
+
+==============================================
+5.Identifying Operations
+==============================================
+-q/a
+
+==============================================
+6.summary
+==============================================
+***idea to define*** :
+- classes and entities :
+  can define from nouns 
+- attributes
+  -can define from nouns
+   form : entity has attr1,attr2,....
+   like : patron has name,age,...      
+  -can define from verbs 
+   like : patron can renew an item for only once -> numberOfRenew
+- operations :  
+  -can define froms verbs 
+  -can define from the mining of the statement
+ 
+*** important notes and ruls wgen writing the requirements :****
+
+- choose right names and verbs
+- focus on entities and thier attribuites and operations ,,
+  then focus in the relationships
+- form of writing requirement :
+
+for attributes :
+  ----------------------------- 
+  - 1.entity has attr1,attr2
+  -----------------------------------------------------------------------
+  - 2.can define from verbs and the mining of the statement as example above
+  --------------------------------------------------------------------
+
+for operations: 
+--------------------------------  
+- 1.entity do verbs or actions
+----------------------------------
+1.1 user can login and log out from and to his profile
+1.2 the system/manager/admin calculate the number of items which the student can borrow 
+from the library at a time, must be less than 5 items 
+------------------------------------------- 
+- 2.event cause entity do verbs or actions
+--------------------------------------------
+like : when button click .. the lamp is on   
+
+
+        
+==============================================
+7.Adding Relationships
+==============================================
+-q/a
+- entity << relationship verb >> entity
+look at 0 slide
+
+==============================================
+8.Refining Relationships
+==============================================
+-q/a
+
+
+==============================================
+9.Refining the Class Diagram
+==============================================
+-q/a
+
+==============================================
+10.Final Considerations
+==============================================
+-q/a
+
+
+==============================================
+11.advices
+==============================================
+1- you must understand the system very very good
+2- work and make a lot of design to different types of system
+   to be good software engineer
+
+
+
+
+
+
+

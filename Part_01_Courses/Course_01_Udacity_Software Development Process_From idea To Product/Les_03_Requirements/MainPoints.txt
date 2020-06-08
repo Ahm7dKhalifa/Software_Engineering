@@ -1,0 +1,135 @@
+#############################################
+1.what is requirements
+##############################################
+- it descripe what is the system well be do (not how)
+- determin or garthing the requirements from the client
+  then determin the requirements needed as (a developers) to bulid this project
+  for ex 
+  hardware re , software requirements and so on
+
+#############################################
+2.why the requirements is very important
+#############################################
+- because all the project and application depend on it 
+  so any error in this step well be very cost
+- wrong requirements = wrong project 
+
+##############################################
+3.SOFTWARE INTENSIVE SYSTEM
+- (TYPE OF GENERAL REQUIREMENT)
+- SOFTWARE QUIALTY FACTORS
+##############################################
+Q/A
+
+
+
+###############################################
+4.WHY Identify The requirements and purposes is very very hard
+################################################
+-Q/A
+
+
+##################################################
+5.WHAT IS MEAN BY
+  -COMPLETENESS
+  -PERTINENCE
+###################################################
+-Q/A
+-Completeness :
+missing requirements and functionality
+-pertinence
+adding extra requirements and functionality
+ which make the software harmful
+
+
+##############################################
+6.QUIZ
+#############################################
+Q/A
+
+
+######################################################################
+7.STANDARD DEFINATION FOR THE REQUIREMENT ENGINEERING AND REQUIREMENT
+######################################################################
+- Q/A
+- REQUIREMENT SPECIFICATION :
+- BERDIGE BETWEEN MACHINE DOMAIN AND APPLICATION DOMAIN  
+- EVENT IN REAL WORLD CAN DETECT BY THE SOFTWARTE LIKE BUTTON PRESSED OR SENSOR ACTIVE
+- ACTION CAN DONE OR AFFECTED IN REAL WORLD BY THE SOFTWARE SYSTEM
+
+##################################################
+8.QUIZ
+###################################################
+
+
+###############################################
+9.TYPE OF APPLICATION DOMAIN RE
+  - FUNCTIONALITY 
+  - NON FUNCTIONALITY
+###############################################
+-FUNCATIONALTY :
+just descripe the functionality of what the system do
+like : 
+output the square root of the input number
+elevator must take the user to the floor requsted
+- NON FUNCTIONALITY
+refer to NON FUNCTIONALITY properties like performance , scuirty and speed and so on
+ex 
+elevator must take the user to the floor requsted with time less than 30s
+
+#################################################
+10.USER REQUIREMENTS VS SYSTEM REQUIREMENTS
+##################################################
+-Q/A
+
+
+####################################
+11.QUIZ
+####################################
+-Q/A
+
+######################################
+12.REQUIREMENTS SOURSES
+#####################################
+-Q/A
+
+
+##########################################
+13.Traditional techniques for elicitation 
+##########################################
+-q/a
+
+##########################################
+14.Requirements Modling 
+##########################################
+-q/a
+
+
+##########################################
+15.Requirements ANALZING 
+##########################################
+-q/a
+
+
+##########################################
+16.Requirements PRIORIZATION
+##########################################
+-q/a
+
+
+##########################################
+17.MAIN STEPS OR STAGE OF ACTUAL Requirements PROCESSS
+##########################################
+-q/a
+
+############################################
+18.IMPORTANT OF SRS ? ITS PROPERTIES
+#############################################
+
+
+
+
+  
+
+  
+

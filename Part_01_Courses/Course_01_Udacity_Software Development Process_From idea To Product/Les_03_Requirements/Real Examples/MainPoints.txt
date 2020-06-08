@@ -1,0 +1,75 @@
+######################################################
+1. introducation
+######################################################
+
+######################################################
+2. number of version ++ team members ++ date
+######################################################
+
+
+#############################################
+3.list of stackholders
+#############################################
+
+
+#############################################
+4.SRS
+##############################################
+
+################################################
+4.1 FUNCTIONAL REQUIREMENT
+################################################
+
+-Requirement id number ++ functional requirement ++ comment
+-may be classifed or put in different catogries 
+-synatx :
+ 1.user -> do event in real world -> cause system action
+   ex :
+       when user click the on button the lamp must be turn on
+       when user choose the flat the evlator must b go this flat
+       with time less than 30 sec 
+ 2.system  --> real world
+ the system must be display list of all departments in company in the home page
+
+################################################
+4.2 None-FUNCTIONAL REQUIREMENT
+################################################
+
+-Requirement id number ++ none-functional requirement ++ comment
+-may be classifed or put in different catogries 
+-synatx :
+         ex :
+         -the cost of the system must be less than 1000$
+         -the cost of the domain server must be less than 50$ for every month
+         -the system must be secuirty fro the hackers
+
+
+################################################
+4.3 software tools requirements 
+################################################
+- tools to build or host OR OPERATE the software 
+- can divid into two parts
+  1.software req to bulid software as developer
+    - programming language
+    - IDE
+    - type of database
+    - frameworks
+    - third party libraries
+    - and so on 
+  2.software req to use and operate the software as end user
+    for example :
+    - the os of the mobile device of end user must be greater then version API 21 (ANDROID 5.1)
+
+
+
+################################################
+4.4 hardware requirements
+################################################
+- common in embeded system
+- like :
+  - sensors and electronic elements and so on 
+- can divid into two parts
+  1.hardware req to bulid software as developer
+  2.hardware req to use and operate the software as end user
+    for example :
+    - the mobile device of end user must contain groyscope sensor to operate the game or vr application
